@@ -1,0 +1,11 @@
+BW1;Bruce;Wayne;false
+TT1;Tom;Tomson;false
+NU1;Naruto;Uzumaki;false
+AK1;Ash;Ketchum;false
+SR1;Shaggy;Rogers;false
+SR1;ID;Exists;false
+BS1;Bart;Simpson;true
+AA1;Admin;Admin;true
+KC1;Kevin;Codemaster;true
+SK1;Simon;Kerbal;false
+DM1;Dun;Mer;false
